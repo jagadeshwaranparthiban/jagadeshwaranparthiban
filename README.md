@@ -33,7 +33,7 @@ My journey revolves around turning complex challenges into simple, efficient, an
 A GPS-driven smart toll management system that automates toll payments, reduces congestion, and optimizes highway travel.  
 **Tech:** React Native · Flask · PostgreSQL · ESP8266 · Firebase  
 
-#### 🍴 [Cloud Kitchen Backend](https://github.com/jagadeshwaranparthiban/CloudKitchen-Backend)
+#### 🍴 [Cloud Kitchen Backend](https://github.com/jagadeshwaranparthiban/cloud-kitchen-backend)
 A Spring Boot–based backend with JWT authentication and role-based access, supporting both admin and user functionalities.  
 **Tech:** Java · Spring Boot · JWT · PostgreSQL · REST API  
 
