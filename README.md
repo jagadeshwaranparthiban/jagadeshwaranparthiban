@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Jag</h1>
 
 <p align="center">
-  <b>A Backend-Focused Full-Stack Developer | Java | System Design | Cloud & IoT Enthusiast</b>
+  <b>A Backend-Focused Full-Stack Developer | Java | System Design | Cloud | DevOps</b>
 </p>
 
 ---
