@@ -29,15 +29,15 @@ My journey revolves around turning complex challenges into simple, efficient, an
 
 ### 🛠️ Featured Projects  
 
-#### 🚗 [SwiftToll (prototype)](https://github.com/jagadeshwaranparthiban/SwiftToll)
+#### 🚗 [SwiftToll (prototype)](https://github.com/jagadeshwaranparthiban/SwiftToll---IoT-Project)
 A GPS-driven smart toll management system that automates toll payments, reduces congestion, and optimizes highway travel.  
 **Tech:** React Native · Flask · PostgreSQL · ESP8266 · Firebase  
 
-#### 🍴 [Cloud Kitchen Backend](https://github.com/jagadeshwaranparthiban/cloud-kitchen-backend)
+#### 🍴 [Cloud Kitchen Backend](https://github.com/jagadeshwaranparthiban/Cloud_Kitchen_Backend)
 A Spring Boot–based backend with JWT authentication and role-based access, supporting both admin and user functionalities.  
 **Tech:** Java · Spring Boot · JWT · PostgreSQL · REST API  
 
-#### 🤖 [AI RAG Chatbot Backend (in-progress)](https://github.com/jagadeshwaranparthiban/RAG-Chatbot)
+#### 🤖 [AI RAG Chatbot Backend (in-progress)](https://github.com/jagadeshwaranparthiban/RAG_Chat_Bot)
 A Spring Boot service integrating Gemini Flash 1.5 and pgvector for document-aware conversational AI.  
 **Tech:** Java · Spring Boot · PostgreSQL (pgvector) · LLM Integration  
 
