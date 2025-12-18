@@ -11,9 +11,9 @@
 I’m a **Computer Science undergrad** passionate about designing and building **scalable backend systems** that solve real-world problems.  
 My journey revolves around turning complex challenges into simple, efficient, and production-ready solutions — combining software engineering principles with modern tools and architectures.  
 
-- 💻 **Core Stack:** Java | Spring Boot | Node.js | React | PostgreSQL  
+- 💻 **Core Stack:** Java | Spring Boot | Node.js | React | PostgreSQL | Flask | FastAPI  
 - ☁️ **Cloud & DevOps:** Docker | Kubernetes | Nginx | AWS (learning phase) | Jenkins (learning phase) 
-- ⚡ **Other Interests:** IoT, System Design, Real-time communication (WebSockets, Kafka)  
+- ⚡ **Other Interests:** Problem solving, IoT, System Design, Real-time communication (WebSockets, Kafka), AI, and ML
 - 📚 Always exploring better ways to make systems faster, cleaner, and more maintainable.  
 
 ---
@@ -21,25 +21,35 @@ My journey revolves around turning complex challenges into simple, efficient, an
 ### 🧠 What I’m Currently Exploring  
 
 - 📦 **Microservices architecture** with Spring Boot  
-- 🔄 **Asynchronous messaging** using Kafka  
-- 🧩 **RAG Chatbots** (LLM + Vector Databases)  
+- 🔄 **Asynchronous messaging** using Kafka
+- 🖥️ **Cloud and DevOps** with AWS, Jenkins, GitHub actions
+- 👨‍💻 **Containerization and Orchestration** using Docker and Kubernetes
+- 🧩 **RAG and MCP** (LLM + Vector Databases and MCP Servers)  
 - ☁️ **Scalable backend design** with container orchestration  
 
 ---
+### 👨‍💻 Leetcode Stats
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/jagadeshwaran_r_p?ext=heatmap)
+
+---
 ### 🛠️ Featured Projects  
 
+#### 🍴 [Cloud Kitchen Web App](https://github.com/jagadeshwaranparthiban/Cloud_Kitchen_Backend)
+A Spring Boot–based web app with JWT authentication and role-based access, supporting both admin and user functionalities.  
+**Tech:** React · Spring Boot · PostgreSQL · REST API · JWT
+
+#### 🤖 [Cloud Kitchen MCP Server](https://github.com/jagadeshwaranparthiban/Cloud_Kitchen_MCP_Server)
+A simple, custom Model Context Protocol (MCP) server built with Spring Boot to expose a structured inventory domain to LLMs via STDIO-based JSON-RPC. Enables Claude Desktop to query live backend data (items, categories, pricing) through formally declared MCP tools instead of prompt-only reasoning.  
+**Tech:** Spring Boot · Spring AI (MCP) · PostgreSQL · JPA/Hibernate · JSON-RPC · Claude MCP · STDIO Transport 
+
+#### 🤖 [AI RAG Chatbot (in-progress)](https://github.com/jagadeshwaranparthiban/RAG_Chat_Bot)
+A LangChain + FastAPI service integrating Gemini Flash 1.5 and chromadb for document-aware conversational AI with an intuitive UI.  
+**Tech:** React · FastAPI · Langchain · ChromaDB (pgvector) · LLM Integration 
+
 #### 🚗 [SwiftToll (prototype)](https://github.com/jagadeshwaranparthiban/SwiftToll---IoT-Project)
-A GPS-driven smart toll management system that automates toll payments, reduces congestion, and optimizes highway travel.  
-**Tech:** React Native · Flask · PostgreSQL · ESP8266 · Firebase  
-
-#### 🍴 [Cloud Kitchen Backend](https://github.com/jagadeshwaranparthiban/Cloud_Kitchen_Backend)
-A Spring Boot–based backend with JWT authentication and role-based access, supporting both admin and user functionalities.  
-**Tech:** Java · Spring Boot · JWT · PostgreSQL · REST API  
-
-#### 🤖 [AI RAG Chatbot Backend (in-progress)](https://github.com/jagadeshwaranparthiban/RAG_Chat_Bot)
-A Spring Boot service integrating Gemini Flash 1.5 and pgvector for document-aware conversational AI.  
-**Tech:** Java · Spring Boot · PostgreSQL (pgvector) · LLM Integration  
+A GPS-driven smart toll management system that automates toll payments, reduces congestion, and optimises highway travel.  
+**Tech:** React Native · Flask · PostgreSQL · ESP8266 · Firebase(for MVP)  
 
 ---
 
