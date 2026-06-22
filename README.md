@@ -43,9 +43,13 @@ A Spring Boot–based web app with JWT authentication and role-based access, sup
 A simple, custom Model Context Protocol (MCP) server built with Spring Boot to expose a structured inventory domain to LLMs via STDIO-based JSON-RPC. Enables Claude Desktop to query live backend data (items, categories, pricing) through formally declared MCP tools instead of prompt-only reasoning.  
 **Tech:** Spring Boot · Spring AI (MCP) · PostgreSQL · JPA/Hibernate · JSON-RPC · Claude MCP · STDIO Transport 
 
-#### 🤖 [AI RAG Chatbot (in-progress)](https://github.com/jagadeshwaranparthiban/RAG_Chat_Bot)
+#### 🤖 [AI RAG Chatbot](https://github.com/jagadeshwaranparthiban/RAG_CHATBOT)
 A LangChain + FastAPI service integrating Gemini Flash 1.5 and chromadb for document-aware conversational AI with an intuitive UI.  
-**Tech:** React · FastAPI · Langchain · ChromaDB (pgvector) · LLM Integration 
+**Tech:** React · FastAPI · Langchain · Qdrant (vector db) · llama-3.3-70b-versatile LLM Integration (via Groq)
+
+#### 🔒 [FaceBlur AI – Face Privacy Protection System](https://github.com/jagadeshwaranparthiban/FACE-BLUR-WEB-APP)
+An AI-powered computer vision application that automatically detects and anonymizes faces in images and videos using deep learning-based face detection and adaptive privacy filtering. Supports configurable blur intensity, image/video processing, and browser-compatible media generation through an intuitive web interface.
+**Tech:** React · Flask · OpenCV · Yolo-v8n · FFmpeg · Computer Vision · Image Processing
 
 #### 🚗 [SwiftToll (prototype)](https://github.com/jagadeshwaranparthiban/SwiftToll---IoT-Project)
 A GPS-driven smart toll management system that automates toll payments, reduces congestion, and optimises highway travel.  
